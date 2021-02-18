@@ -6,9 +6,9 @@ permalink: /7seg/
 
 # A Digital Timer Scanner App
 
-![View of app in light-theme help mode](/assets/help-light.PNG){: width="25%"}
-![View of app in light-theme scanner mode](/assets/scan-light.PNG){: width="25%"}
-![View of app in light-theme reminder mode](/assets/reminder-light.PNG){: width="25%"}
+![View of app in light-theme help mode](/assets/help-light.png){: width="25%"}
+![View of app in light-theme scanner mode](/assets/scan-light.png){: width="25%"}
+![View of app in light-theme reminder mode](/assets/reminder-light.png){: width="25%"}
 
 Have you ever found yourself waiting for a microwave, and wished you could walk away
 and get a reminder when its done?
