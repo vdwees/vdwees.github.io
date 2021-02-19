@@ -7,7 +7,7 @@ permalink: /7seg/
 # A Digital Timer Scanner App
 
 ![View of app in help mode. Some text is visible to instruct how to use the app.](/assets/help-light.png){: width="25%"}
-![View of app in scanner mode. A timer with the digits 0 9 5 9 is visible in the camera window, and the digits 0 9 5 9 appear as text at the bottom of the app.](/assets/scan-light.png){: width="25%"}
+![View of app in scanner mode. A timer with the digits 0 9 5 9 is visible in the camera window, and the digits 0 9 5 9 appear as the recognized text at the bottom of the app.](/assets/scan-light.png){: width="25%"}
 ![View of app in reminder mode. There is a button to set a reminder for 9 minutes 59 seconds and another to set a reminder for 9 hours 59 minutes.](/assets/reminder-light.png){: width="25%"}
 
 Have you ever found yourself waiting for a microwave, and wished you could walk away
