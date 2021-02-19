@@ -20,7 +20,7 @@ Devices such as microwaves, washing machines, and ovens often have electronic se
 # Usage
 The app consists of a camera view and an overlay with the best guess set of digits in enlarged text.
 When a digital timer comes into view, the app will generate some haptic feedback and update the digits in real-time.
-When VoiceOver is active, the app will read aloud the digits as they are updated.
+If VoiceOver is active, the app will read aloud the digits as they are updated.
 
 If the digits are tapped or the overlay is dragged upward, the camera is paused and the user is presented the option to schedule a notification for later based on the captured digits.
 Dragging the overlay back down or tapping on the digits will return the app to its initial state and the camera will start capturing digits again.
