@@ -18,7 +18,13 @@ That's what this app is for.
 Devices such as microwaves, washing machines, and ovens often have electronic seven-segment displays to indicate how long until the machine is done (the ones in my house do, at least). 7seg uses some advanced computer vision techniques to extract the digits out of timer displays, with first-class support for seven-segment displays.
 
 # Usage
-The app consists of a camera view and an overlay with the best guess set of digits in enlarged text. If the digits are tapped or the overlay is dragged upward, the camera is paused and the user is presented the option to schedule a notification for later based on the captured digits. Dragging the overlay back down or tapping on the digits will return the app to its initial state and the camera will start capturing digits again.
+The app consists of a camera view and an overlay with the best guess set of digits in enlarged text.
+When a digital timer comes into view, the app will generate some haptic feedback and update the digits in real-time.
+When VoiceOver is active, the app will read aloud the digits as they are updated.
+
+If the digits are tapped or the overlay is dragged upward, the camera is paused and the user is presented the option to schedule a notification for later based on the captured digits.
+Dragging the overlay back down or tapping on the digits will return the app to its initial state and the camera will start capturing digits again.
+
 
 # Troubleshooting
 For best performance, ensure timer display is clean, well-lit and free of glare.
