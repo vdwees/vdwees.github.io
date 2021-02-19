@@ -15,7 +15,7 @@ and get a reminder when its done?
 Or maybe you are vision-impaired and would like an app to read aloud how much time is left on the machine.
 That's what this app is for.
  
-Devices like microwaves, washing machines, and ovens have displays, usually electronic seven-segment displays to indicate how long until the machine is done (the ones in my house do, at least).
+Devices such as microwaves, washing machines, and ovens often have electronic seven-segment displays to indicate how long until the machine is done (the ones in my house do, at least).
 
 7seg uses some advanced computer vision techniques to extract the digits out of timer displays, with first-class support for seven-segment displays.
 
