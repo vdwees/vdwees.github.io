@@ -15,7 +15,8 @@ and get a reminder when its done?
 Or maybe you are vision-impaired and would like an app to read aloud how much time is left on the machine.
 That's what this app is for.
  
-Devices such as microwaves, washing machines, and ovens often have electronic seven-segment displays to indicate how long until the machine is done (the ones in my house do, at least). 7seg uses some advanced computer vision techniques to extract the digits out of timer displays, with first-class support for seven-segment displays.
+Devices such as microwaves, washing machines, and ovens often have electronic seven-segment displays to indicate how long until the machine is done (the ones in my house do, at least).
+7seg uses state-of-the-art computer vision techniques to extract the digits out of timer displays, with first-class support for seven-segment displays.
 
 # Usage
 The app consists of a camera view and an overlay with the best guess set of digits in enlarged text.
@@ -30,6 +31,9 @@ Dragging the overlay back down or tapping on the digits will return the app to i
 For best performance, ensure timer display is clean, well-lit and free of glare.
 If the timer screen is glossy, you might have better success when holding the camera
 at a slight angle.
+
+# Privacy
+This app needs access to your device's camera, but does not collect any data. All image-processing is on the device itself.
 
 # Limitations
 Computer vision is challenging, and some digital timer manufacturers seem to think that they
