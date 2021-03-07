@@ -26,14 +26,17 @@ If VoiceOver is active, the app will read aloud the digits as they are updated.
 If the digits are tapped or the overlay is dragged upward, the camera is paused and the user is presented the option to schedule a notification for later based on the captured digits.
 Dragging the overlay back down or tapping on the digits will return the app to its initial state and the camera will start capturing digits again.
 
-
 # Troubleshooting
 For best performance, ensure timer display is clean, well-lit and free of glare.
 If the timer screen is glossy, you might have better success when holding the camera
 at a slight angle.
 
+# Discussion
+Some discussion of the app can be found on [reddit](https://old.reddit.com/r/Blind/comments/lnm796/app_to_scan_digital_timers/).
+
 # Privacy
 This app needs access to your device's camera, but does not collect any data. All image processing is on the device itself.
+If you would like to use the "Create Reminder" feature, you will also need to allow the app to set notifications. These are also only on the device itself, so no data is collected.
 
 # Limitations
 Computer vision is challenging, and some digital timer manufacturers seem to think that they
