@@ -6,45 +6,63 @@ permalink: /7seg/
 
 # A Digital Timer Scanner App
 
-![View of app in help mode. Some text is visible to instruct how to use the app.](/assets/help-light.png){: width="25%"}
-![View of app in scanner mode. A timer with the digits 0 9 5 9 is visible in the camera window, and the digits 0 9 5 9 appear as the recognized text at the bottom of the app.](/assets/scan-light.png){: width="25%"}
-![View of app in reminder mode. There is a button to set a reminder for 9 minutes 59 seconds and another to set a reminder for 9 hours 59 minutes.](/assets/reminder-light.png){: width="25%"}
+![View of app in help mode. Some text is visible to instruct how to use the
+app.](/assets/help-light.png){: width="25%"} ![View of app in scanner mode. A
+timer with the digits 0 9 5 9 is visible in the camera window, and the digits 0
+9 5 9 appear as the recognized text at the bottom of the
+app.](/assets/scan-light.png){: width="25%"} ![View of app in reminder mode.
+There is a button to set a reminder for 9 minutes 59 seconds and another to set
+a reminder for 9 hours 59 minutes.](/assets/reminder-light.png){: width="25%"}
 
-Have you ever found yourself waiting for a microwave, and wished you could walk away
-and get a reminder when its done?
-Or maybe you are vision-impaired and would like an app to read aloud how much time is left on the machine.
-That's what this app is for.
+Have you ever found yourself waiting for a microwave, and wished you could walk
+away and get a reminder when its done? Or maybe you are vision-impaired and
+would like an app to read aloud how much time is left on the machine. That's
+what this app is for.
  
-Devices such as microwaves, washing machines, and ovens often have electronic seven-segment displays to indicate how long until the machine is done (the ones in my house do, at least).
-7seg uses state of the art computer vision techniques to extract the digits out of timer displays, with first-class support for seven-segment displays.
+Devices such as microwaves, washing machines, and ovens often have electronic
+seven-segment displays to indicate how long until the machine is done (the ones
+in my house do, at least). 7seg uses state of the art computer vision
+techniques to extract the digits out of timer displays, with first-class
+support for seven-segment displays.
 
 # Usage
-The app consists of a camera view and an overlay with the best guess set of digits in enlarged text.
-When a digital timer comes into view, the app will generate some haptic feedback and update the digits in real-time.
-If VoiceOver is active, the app will read aloud the digits as they are updated.
+The app consists of a camera view and an overlay with the best guess set of
+digits in enlarged text. When a digital timer comes into view, the app will
+generate some haptic feedback and update the digits in real-time. If VoiceOver
+is active, the app will read aloud the digits as they are updated.
 
-If the digits are tapped or the overlay is dragged upward, the camera is paused and the user is presented the option to schedule a notification for later based on the captured digits.
-Dragging the overlay back down or tapping on the digits will return the app to its initial state and the camera will start capturing digits again.
+If the digits are tapped or the overlay is dragged upward, the camera is paused
+and the user is presented the option to schedule a notification for later based
+on the captured digits. Dragging the overlay back down or tapping on the digits
+will return the app to its initial state and the camera will start capturing
+digits again.
 
 # Troubleshooting
-For best performance, ensure timer display is clean, well-lit and free of glare.
-If the timer screen is glossy, you might have better success when holding the camera
-at a slight angle.
+For best performance, ensure timer display is clean, well-lit and free of
+glare. If the timer screen is glossy, you might have better success when
+holding the camera at a slight angle.
 
 # Discussion
-Some discussion of the app can be found on [reddit](https://old.reddit.com/r/Blind/comments/lnm796/app_to_scan_digital_timers/).
+Some discussion of the app can be found on
+[reddit](https://old.reddit.com/r/Blind/comments/lnm796/app_to_scan_digital_timers/).
 
 # Privacy
-This app needs access to your device's camera, but does not collect any data. All image processing is on the device itself.
-If you would like to use the "Create Reminder" feature, you will also need to allow the app to set notifications. These are also only on the device itself, so no data is collected.
+This app needs access to your device's camera, but does not collect any data.
+All image processing is on the device itself. If you would like to use the
+"Create Reminder" feature, you will also need to allow the app to set
+notifications. These are also only on the device itself, so no data is
+collected.
 
 # Limitations
-Computer vision is challenging, and some digital timer manufacturers seem to think that they
-should make their timer displays as complex and glossy as possible.
-Indeed, digital timers have been around for a while and there is a huge range of designs.
+Computer vision is challenging, and some digital timer manufacturers seem to
+think that they should make their timer displays as complex and glossy as
+possible. Indeed, digital timers have been around for a while and there is a
+huge range of designs.
 
-I wish I could say this app supports all timers, but its possible it does not support one of yours. If you'd like me to try and support a particular timer, feel free to send me relevant pictures and info via email, keeping in mind that some timers or lighting environments will always be out of scope.
+I wish I could say this app supports all timers, but its possible it does not
+support one of yours. If you'd like me to try and support a particular timer,
+feel free to send me relevant pictures and info via email, keeping in mind that
+some timers or lighting environments will always be out of scope.
 
-In any case, this app is provided as-is.
-Use it at your own risk.
-It's really not suitable for situations where someone could get hurt.
+In any case, this app is provided as-is. Use it at your own risk. It's really
+not suitable for situations where someone could get hurt.
