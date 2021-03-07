@@ -4,7 +4,7 @@ title: 7seg
 permalink: /7seg/
 ---
 
-# A Digital Timer Scanner App
+# A Digital Number Scanner App
 
 ![View of app in help mode. Some text is visible to instruct how to use the
 app.](/assets/help-light.png){: width="25%"} ![View of app in scanner mode. A
@@ -25,17 +25,25 @@ in my house do, at least). 7seg uses state of the art computer vision
 techniques to extract the digits out of timer displays, with first-class
 support for seven-segment displays.
 
+The app is not limited to timers- it should work for displays that
+are not timers as well. For example, it could also be used to read time
+displayed on a digital clock or the temperature display of a digital thermostat
+or oven.
+
 # Usage
 The app consists of a camera view and an overlay with the best guess set of
-digits in enlarged text. When a digital timer comes into view, the app will
+digits in enlarged text. When a digital display into view, the app will
 generate some haptic feedback and update the digits in real-time. If VoiceOver
 is active, the app will read aloud the digits as they are updated.
 
 If the digits are tapped or the overlay is dragged upward, the camera is paused
-and the user is presented the option to schedule a notification for later based
-on the captured digits. Dragging the overlay back down or tapping on the digits
-will return the app to its initial state and the camera will start capturing
-digits again.
+and the user is presented with some options based on what number was scanned.
+Dragging the overlay back down or tapping on the digits will return the app to
+its initial state and the camera will start capturing digits again.
+
+Initially, the only option when the overlay is expanded is to schedule a
+notification for later, interpreting the captured digits as a timer. Feedback
+about other integrations should be added is welcome.
 
 # Troubleshooting
 For best performance, ensure timer display is clean, well-lit and free of
