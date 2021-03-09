@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 7seg
+title: SevenSeg
 permalink: /7seg/
 ---
 
@@ -31,6 +31,7 @@ displayed on a digital clock or the temperature display of a digital thermostat
 or oven.
 
 # Usage
+
 The app consists of a camera view and an overlay with the best guess set of
 digits in enlarged text. When a digital display into view, the app will
 generate some haptic feedback and update the digits in real-time. If VoiceOver
@@ -46,15 +47,18 @@ notification for later, interpreting the captured digits as a timer. Feedback
 about other integrations should be added is welcome.
 
 # Troubleshooting
-For best performance, ensure timer display is clean, well-lit and free of
-glare. If the timer screen is glossy, you might have better success when
-holding the camera at a slight angle.
+
+For best performance, ensure the seven-segment display is clean, well-lit and
+free of glare. If the target screen is glossy, you might have better success
+when holding the camera at a slight angle.
 
 # Discussion
+
 Some discussion of the app can be found on
 [reddit](https://old.reddit.com/r/Blind/comments/lnm796/app_to_scan_digital_timers/).
 
 # Privacy
+
 This app needs access to your device's camera, but does not collect any data.
 All image processing is on the device itself. If you would like to use the
 "Create Reminder" feature, you will also need to allow the app to set
@@ -62,6 +66,7 @@ notifications. These are also only on the device itself, so no data is
 collected.
 
 # Limitations
+
 Computer vision is challenging, and some digital timer manufacturers seem to
 think that they should make their timer displays as complex and glossy as
 possible. Indeed, digital timers have been around for a while and there is a
