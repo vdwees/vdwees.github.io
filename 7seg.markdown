@@ -30,6 +30,10 @@ are not timers as well. For example, it could also be used to read time
 displayed on a digital clock or the temperature display of a digital thermostat
 or oven.
 
+If you'd like to give the app a try, you can find it on
+[TestFlight](https://testflight.apple.com/join/DdPnqnlA). Any feedback is
+welcome!
+
 # Usage
 
 The app consists of a camera view and an overlay with the best guess set of
