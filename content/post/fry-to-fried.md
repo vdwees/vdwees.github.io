@@ -1,14 +1,18 @@
 ---
-layout: post
-title: Raising Fish in my College Basement
-tags: hydroponics aquaponics aquaculture fish
+date: "2020-12-16T00:00:00Z"
+tags:
+  - hydroponics
+  - aquaponics
+  - aquaculture
+  - fish
+title: raising fish in my college basement
 ---
 
 While in my last year of university, I became obsessed with the idea of having
 my own micro aquaponics ecosystem. Then, in a moment of weakness, I bought
 fifteen tilapa fry on eBay.
 
-<!-- more -->
+<!--more-->
 
 ## The Beginning
 
@@ -60,7 +64,7 @@ once they were first moved to a larger tank in my basement. At this point they
 are about five times larger than how they arrived. Shortly after this photo was
 taken, I converted our aquarium into a hydroponics system.
 
-![The fish, finger-sized, in a full-size tank](/assets/small-fish.jpeg)
+![The fish, finger-sized, in a full-size tank](/images/small-fish.jpeg)
 
 ## The Lettuce
 
@@ -71,19 +75,19 @@ and their roots are allowed to dangle into the nutrient-laden water below.
 Below is a sketch of a basic setup. The water from the fish tank is cycled
 though the floating bed, flowing in from the right and exiting on the left.
 
-![Hand sketch of a floating bed for growing lettuce](/assets/floating-bed.png)
+![Hand sketch of a floating bed for growing lettuce](/images/floating-bed.png)
 
 I chose to plant lettuce in my basement. Lettuce, while not as valuable as
 other greens that may be found growing in a basement, have the advantages of
 growing really well on a floating bed setup and are unquestionably legal to
 posses. The newly germinated and planted lettuce plants are pictured below.
 
-![Newly germinated lettuce planted in a floating bed](/assets/baby-lettuce.jpeg)
+![Newly germinated lettuce planted in a floating bed](/images/baby-lettuce.jpeg)
 
 After a few weeks, the lettuce was really growing nicely, as shown in the next
 photo.
 
-![Lettuce half-way to full size](/assets/bigger-lettuce.jpeg)
+![Lettuce half-way to full size](/images/bigger-lettuce.jpeg)
 
 I don't have a picture of them at full-size, but they were very similar to what
 you'd see in a grocery store and I got a few salads out of them.
