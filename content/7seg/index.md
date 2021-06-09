@@ -1,25 +1,12 @@
 ---
-title: SevenSeg
+title: 'SevenSeg: a number scanner app'
 date: "2021-02-19T00:00:00Z"
 tags:
   - computer vision
   - accessibility
+summary: a number scanner app for seven-segment displays
 ---
 
-# A Digital Number Scanner App
-
-{{< figure
-  src="/images/help-light.png"
-  alt="View of app in help mode. Some text is visible to instruct how to use the app."
-  width="25%" >}}
-{{< figure
-  src="/images/scan-light.png" 
-  alt="View of app in scanner mode. A timer with the digits 0 9 5 9 is visible in the camera window, and the digits 0 9 5 9 appear as the recognized text at the bottom of the app."
-  width="25%" >}}
-{{< figure
-  src="/images/reminder-light.png"
-  alt="View of app in reminder mode. There is a button to set a reminder for 9 minutes 59 seconds and another to set a reminder for 9 hours 59 minutes."
-  width="25%" >}}
 
 Have you ever found yourself waiting for a microwave, and wished you could walk
 away and get a reminder when its done? Or maybe you are vision-impaired and
@@ -28,7 +15,7 @@ what this app is for.
  
 Devices such as microwaves, washing machines, and ovens often have electronic
 seven-segment displays to indicate how long until the machine is done (the ones
-in my house do, at least). 7seg uses state of the art computer vision
+in my house do, at least). SevenSeg uses state of the art computer vision
 techniques to extract the digits out of timer displays, with first-class
 support for seven-segment displays.
 
@@ -41,7 +28,22 @@ If you'd like to give the app a try, you can find it on
 [TestFlight](https://testflight.apple.com/join/DdPnqnlA). Any feedback is
 welcome!
 
-# Usage
+## Usage
+
+<figure>
+  <img
+    src="/images/help-light.png"
+    alt="View of app in help mode. Some text is visible to instruct how to use the app."
+    width="31%">
+  <img 
+    src="/images/scan-light.png" 
+    alt="View of app in scanner mode. A timer with the digits 0 9 5 9 is visible in the camera window, and the digits 0 9 5 9 appear as the recognized text at the bottom of the app."
+  width="31%">
+  <img
+    src="/images/reminder-light.png"
+    alt="View of app in reminder mode. There is a button to set a reminder for 9 minutes 59 seconds and another to set a reminder for 9 hours 59 minutes."
+    width="31%">
+</figure>
 
 The app consists of a camera view and an overlay with the best guess set of
 digits in enlarged text. When a digital display into view, the app will
@@ -57,18 +59,18 @@ Initially, the only option when the overlay is expanded is to schedule a
 notification for later, interpreting the captured digits as a timer. Feedback
 about other integrations should be added is welcome.
 
-# Troubleshooting
+## Troubleshooting
 
 For best performance, ensure the seven-segment display is clean, well-lit and
 free of glare. If the target screen is glossy, you might have better success
 when holding the camera at a slight angle.
 
-# Discussion
+## Discussion
 
 Some discussion of the app can be found on
 [reddit](https://old.reddit.com/r/Blind/comments/lnm796/app_to_scan_digital_timers/).
 
-# Privacy
+## Privacy
 
 This app needs access to your device's camera, but does not collect any data.
 All image processing is on the device itself. If you would like to use the
@@ -76,7 +78,7 @@ All image processing is on the device itself. If you would like to use the
 notifications. These are also only on the device itself, so no data is
 collected.
 
-# Limitations
+## Limitations
 
 Computer vision is challenging, and some digital timer manufacturers seem to
 think that they should make their timer displays as complex and glossy as
