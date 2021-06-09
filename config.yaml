@@ -1,0 +1,23 @@
+baseURL: https://vdwees.github.io
+disablePathToLower: true
+languageCode: en-us
+title: vdwees.github.io
+theme: "hugo-tania"
+Author:
+  name: Jesse VanderWees
+
+params:
+  socialOptions:
+    github: https://github.com/vdwees
+    email: jesse.van.der.wees@gmail.com
+  enableFootnotes: true
+  panelbear:
+    site: 1A99T17w2MO
+
+# markup:
+#   highlight:
+#     noClasses: false
+#     lineNos: true
+#   goldmark:
+#     renderer:
+#       unsafe: true
