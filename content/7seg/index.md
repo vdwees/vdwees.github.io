@@ -4,6 +4,7 @@ date: "2021-02-19T00:00:00Z"
 tags:
   - computer vision
   - accessibility
+  - iOS
 summary: a number scanner app for seven-segment displays
 ---
 
