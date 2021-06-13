@@ -14,10 +14,10 @@ projects was the design and construction of the "bicitrilladora".
 
 The Nicaraguan non-profit I was working for was set up to improve access to
 healthcare for extremely rural communities. The villages they served were very
-hard to get to, often requiring multiple days of travel involving 4x4 trucks
-and dugout canoes. Conversely, a farmer in one of the more rural villages could
-expect multiple days, substantial risk and great personal expense to get their
-products to market.
+hard to get to, often requiring multiple days of travel involving 4x4 trucks,
+Cessnas and dugout canoes. Conversely, a farmer in one of the more rural
+villages could expect multiple days, substantial risk and great personal
+expense to get their products to market.
 
 {{< figure
     src="/images/rural-homestead.jpeg"
@@ -61,3 +61,51 @@ commercial rice dehuller we could buy in town. Could we harness human power to
 dehull rice efficiently? To answer the question, I was to work on a prototype.
 
 The construction and design of the prototype can be seen in the following photos.
+
+
+{{< figure
+    src="/images/crankset-and-seatpost-extraction.jpeg"
+    caption="Sacrificing a bike frame to extract the crankset and seatpost"
+    alt="Using a grinding disc to cut up an old bike frame in a rustic shop"
+>}}
+
+{{< figure
+    src="/images/welderman-at-work.jpeg"
+    caption="A flywheel is constructed by filling the rear wheel with concrete and is mounted ahead of the cranks. The rear derailleur is preserved. In the background, the shop owner casually finishes up some welds."
+    alt=""
+>}}
+
+{{< figure
+    src="/images/flywheel-and-seatpost-mounted.jpeg"
+    caption="On the other side of the flywheel, a pully is embedded into the concrete. This will be used to transfer power from the flywheel to the dehuller."
+    alt=""
+>}}
+
+{{< figure
+    src="/images/bicitrilladora-flywheel-closeup.jpeg"
+    caption="A closeup of the flyweel and the home-made pully."
+    alt=""
+>}}
+
+{{< figure
+    src="/images/bicitrilladora-painted-testing.jpeg"
+    caption="Painted and fully assembled, with the commercial dehuller mounted. The dehuller mount is slotted to set the belt tension."
+    alt=""
+>}}
+
+##  Results
+
+
+Points to address
+- effort required
+- quality of product
+- did it actually get used
+
+
+
+
+{{< figure
+    src="/images/weld-inspector.jpeg"
+    caption="Bonus: A colourful *Lyssomanes sp.* hunting on the welding bench. Just when you think you've seen them all another flavour of these fuzzy goofballs shows up."
+    alt=""
+>}}
