@@ -106,8 +106,8 @@ Once assembled, the prototype was delivered to a rural community for testing. A
 lot of people enjoyed using the machine, almost equally as a way to show off
 how fast they could pedal as to extract the rice itself. Pedalling the
 bicitrilladora was not at all unlike spin class, and a few operators would be
-able to process a sack of rice in under two hours, much faster than the
-traditional method. 
+able to process a sack of rice in under two hours, much faster and easier than
+the traditional method. 
 
 {{< figure
     src="/images/mostly-dehulled-rice.jpeg"
