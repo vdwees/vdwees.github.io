@@ -1,7 +1,10 @@
 ---
 title: "bicitrilladora: a one-of-a-kind contraption"
 date: 2021-06-12T12:52:38+02:00
-draft: true
+tags:
+  - rice dehuller
+  - nicaragua
+  - R&D
 ---
 
 One summer when I was too inexperienced an engineer to find a real internship,
@@ -15,9 +18,8 @@ projects was the design and construction of the "bicitrilladora".
 The Nicaraguan non-profit I was working for was set up to improve access to
 healthcare for extremely rural communities. The villages they served were very
 hard to get to, often requiring multiple days of travel involving 4x4 trucks,
-Cessnas and dugout canoes. Conversely, a farmer in one of the more rural
-villages could expect multiple days, substantial risk and great personal
-expense to get their products to market.
+Cessnas and dugout canoes. Conversely, the villagers could expect delays,
+substantial risk and great personal expense to get their products to market.
 
 {{< figure
     src="/images/rural-homestead.jpeg"
@@ -27,19 +29,24 @@ expense to get their products to market.
 
 The organization I was working for had observed that their best attempts to
 improve healthcare access would have only marginal impact unless they also
-worked to address some of the underlying reasons for why these agrarian
-villages were unable to get treatment. And one of the most significant factors
-at play was that many people simply could not afford even the most subsidized
-healthcare treatment. Therefore, an improvement in the economic prospects of a
-community would translate directly into better access to healthcare for that
-community.
+worked to address some of the underlying reasons for why these villages were
+unable to get treatment. One of the most significant factors at play was that
+many people simply could not afford even the most subsidized healthcare
+treatment. An improvement in the economic prospects of a community would
+translate directly into better access to healthcare for that community.
 
-Due to its stable shelf-life, the most common export from a village was rice.
-Before it can be cooked, rice must be dehulled. As dehulled rice is much more
-valuable by weight, my organization decided to invest some R&D in dehulling
+Due to its stable shelf-life, the most common export from a village is rice.
+Before it can be cooked, rice must be dehulled. Dehulled rice is more
+valuable by weight, so my organization decided to invest some R&D in dehulling
 technology that might be feasible in a rural community. A successful technology
 could significantly improve a farmer's profitability and, consequently,
 healthcare.
+
+{{< figure
+    src="/images/full-grain-rice.jpeg"
+    caption="A sack of rice before it is dehulled."
+    alt="A view into a white sack of unprocessed rice."
+>}}
 
 ## A Prototype
 
@@ -72,40 +79,45 @@ The construction and design of the prototype can be seen in the following photos
 {{< figure
     src="/images/welderman-at-work.jpeg"
     caption="A flywheel is constructed by filling the rear wheel with concrete and is mounted ahead of the cranks. The rear derailleur is preserved. In the background, the shop owner casually finishes up some welds."
-    alt=""
+    alt="A bike chain connecting the crankset to the flywheel and derailleur."
 >}}
 
 {{< figure
     src="/images/flywheel-and-seatpost-mounted.jpeg"
     caption="On the other side of the flywheel, a pully is embedded into the concrete. This will be used to transfer power from the flywheel to the dehuller."
-    alt=""
+    alt="The whole machine is visible on the workbench, but in a partially assembled state."
 >}}
 
 {{< figure
     src="/images/bicitrilladora-flywheel-closeup.jpeg"
     caption="A closeup of the flyweel and the home-made pully."
-    alt=""
+    alt="Iron bars are bent into a circle and welded together and then welded to bolts embetted in the flywheel."
 >}}
 
 {{< figure
     src="/images/bicitrilladora-painted-testing.jpeg"
-    caption="Painted and fully assembled, with the commercial dehuller mounted. The dehuller mount is slotted to set the belt tension."
-    alt=""
+    caption="Painted and fully assembled, with the commercial dehuller mounted. The dehuller mount is slotted to set the belt tension. Unprocessed rice goes into the hopper at the top and out the shute on the side into the sack."
+    alt="The fully assembled machine, painted blue with a green dehuller mounted. A belt connects the flywhel to the dehuller."
 >}}
 
 ##  Results
 
-
-Points to address
-- effort required
-- quality of product
-- did it actually get used
-
-
-
+Once assembled, the prototype was delivered to a rural community for testing. A
+lot of people enjoyed using the machine, almost equally as a way to show off
+how fast they could pedal as to extract the rice itself. Pedalling the
+bicitrilladora was not at all unlike spin class, and a few operators would be
+able to process a sack of rice in under two hours, much faster than the
+traditional method. 
 
 {{< figure
-    src="/images/weld-inspector.jpeg"
-    caption="Bonus: A colourful *Lyssomanes sp.* hunting on the welding bench. Just when you think you've seen them all another flavour of these fuzzy goofballs shows up."
-    alt=""
+    src="/images/mostly-dehulled-rice.jpeg"
+    caption="Rice from early in testing."
+    alt="A cup of poorly dehulled rice."
 >}}
+
+It took a bit of practice to operate the dehuller itself. Common issues were
+broken grains and grains still in the hull, as seen in the picture. Ultimately,
+I don't think any more of this machine was made, however in my mind the
+limiting factor was not the pedal-power but rather the rather finicky commercial
+dehuller that we were using. Even so, the bicitrilladora was still viewed as
+preferable by many users over the traditional pounding method.
