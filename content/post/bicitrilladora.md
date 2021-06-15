@@ -13,7 +13,7 @@ Nicaraguan engineer. Needless to say, the summer was an eventful one and I
 have many good memories and stories from that summer. One of my favorite
 projects was the design and construction of the "bicitrilladora".
 
-## Why this thing?
+## Some Background
 
 The Nicaraguan non-profit I was working for was set up to improve access to
 healthcare for extremely rural communities. The villages they served were very
