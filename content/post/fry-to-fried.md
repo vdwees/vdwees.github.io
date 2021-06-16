@@ -12,8 +12,6 @@ While in my last year of university, I became obsessed with the idea of having
 my own micro aquaponics ecosystem. Then, in a moment of weakness, I bought
 fifteen tilapa fry on eBay.
 
-<!--more-->
-
 ## The Beginning
 
 I was introduced to aquaponics by my neighbor, Jed. Aquaponics fascinated me
@@ -89,5 +87,18 @@ photo.
 
 ![Lettuce half-way to full size](/images/bigger-lettuce.jpeg)
 
-I don't have a picture of them at full-size, but they were very similar to what
-you'd see in a grocery store and I got a few salads out of them.
+I don't have a picture of the fully grown lettuce, but it was very similar to
+what you'd see in a grocery store and I got a few salads out of it. Several
+months later I was graduating and moving out of the house. The fish were nearly
+full size, so we made fish tacos. They were almost like pets at this point, so
+it was a bit sad.
+
+## Conclusion
+
+Ultimately this project was far from cost-effective, but it was a fun and
+educational distraction from university. Additionally a lot of people came over
+to see it, so it had some value as a talking point. I should also give credit
+to some of the people in addition to Jed who helped me out along the way: Prof.
+De Rooy for lending me the large tanks, Julie for helping me transport them,
+and my housemates for letting me take over part of the basement for most of the
+year.
