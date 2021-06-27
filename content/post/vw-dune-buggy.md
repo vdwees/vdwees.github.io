@@ -10,7 +10,7 @@ When I moved to Nicaragua in elementary school, my dad promised me that we
 would build a dune buggy together. I was worried about the move, but certain
 that if I had this exciting project to look forward to, everything would be OK.
 
-## A Volkswagen Beetle
+## The Volkswagen Beetle
 
 The classic [Volkswagen
 Beetle](https://en.wikipedia.org/wiki/Volkswagen_Beetle) is possibly the most
@@ -73,9 +73,16 @@ identical.
 
 As I was still in high school, at some point my dad contracted some people to
 help out with the rest of the build, especially the frame. I continued to help
-out at the shop when I could. Check out the photos below!
+out at the shop when I could. 
 
 ## Album
+
+I think the dune buggy turned out pretty cool in the end! Thanks to its light
+body and rear wheel drive, it was great for drifting and ripping holes in the
+baseball field. I also drove it to school for while. If my hair was wet at all
+when rushing out the door, I was sure to have very windswept look that day (and
+maybe a bug in my teeth...).
+
 
 <figure>
   {{< youtube id="12lF6r7RXOM" title="Video of the dune buggy driving around." >}}
