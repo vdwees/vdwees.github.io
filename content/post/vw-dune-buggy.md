@@ -1,7 +1,6 @@
 ---
 title: the dune buggy
 date: 2021-06-27T00:00:00Z
-draft: true
 tags:
   - Volkswagen Dune Buggy
   - Car Repair
@@ -73,13 +72,14 @@ identical.
 </figure>
 
 As I was still in high school, at some point my dad contracted some people to
-help out with the rest of the build, in particular the frame. I continued to
-help out at the shop when I could. In the end, the dune buggy ended up looking
-pretty cool.
+help out with the rest of the build, especially the frame. I continued to help
+out at the shop when I could. Check out the photos below!
+
+## Album
 
 <figure>
   {{< youtube id="12lF6r7RXOM" title="Video of the dune buggy driving around." >}}
-  <figcaption><p>At the time I even made a short video and posted it on youtube,
+  <figcaption><p>At some point I even made a short video and posted it on youtube,
 although the resolution is pretty poor by today's standards.</p></figcaption>
 </figure>
 
