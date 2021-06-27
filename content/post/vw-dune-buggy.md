@@ -79,9 +79,9 @@ out at the shop when I could.
 
 I think the dune buggy turned out pretty cool in the end! Thanks to its light
 body and rear wheel drive, it was great for drifting and ripping holes in the
-baseball field. I also drove it to school for while. If my hair was wet at all
-when rushing out the door, I was sure to have very windswept look that day (and
-maybe a bug in my teeth...).
+baseball field. I also drove it to school throughout high school. If my hair
+was wet when rushing out the door, I was sure to have very windswept look that
+day.
 
 
 <figure>
