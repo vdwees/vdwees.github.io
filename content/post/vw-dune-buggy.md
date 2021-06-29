@@ -86,8 +86,15 @@ day.
 
 <figure>
   {{< youtube id="12lF6r7RXOM" title="Video of the dune buggy driving around." >}}
-  <figcaption><p>At some point I even made a short video and posted it on youtube,
-although the resolution is pretty poor by today's standards.</p></figcaption>
+<figcaption>
+<p>
+
+At some point I even made a short video and posted it on youtube, although the
+resolution is pretty poor by today's standards. Notice the lack of ABS in the
+first few frames. Also missing: power steering and a windshield.
+
+</p>
+</figcaption>
 </figure>
 
 {{< figure
