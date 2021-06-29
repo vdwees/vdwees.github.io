@@ -95,3 +95,15 @@ although the resolution is pretty poor by today's standards.</p></figcaption>
     caption="My sister learning to drive. Teaching her in this indestructable vehicle is how my dad recuperated his investment."
     alt="A young girl trying to drive."
 >}}
+
+{{< figure
+    src="/images/dune-buggy-back.jpeg"
+    caption="The dune buggy from another angle. Diagnosing engine issues was only a matter of walking around to the back."
+    alt="Looking at the dune buggy from the back. The engine is exposed."
+>}}
+
+{{< figure
+    src="/images/dune-buggy-beach.jpeg"
+    caption="The best place to drive it was on the unpaved back roads going down to the beach. Lots of nice hills and curves, with the occasional mud puddle."
+    alt="Riding on a dirt road. Passenger has their hands in the air like on a roler coaster."
+>}}
