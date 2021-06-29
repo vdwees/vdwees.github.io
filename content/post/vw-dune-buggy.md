@@ -41,17 +41,17 @@ central stiffening tube was still solid.
 
 After taking the vehicle apart, the project lost momentum. I was eager to see
 it happen, but still too young to be much help when reassembling the vehicle.
-It wasn't until 2010 when I was a bit older that I took on some of the
-initiative to get the reassembly underway. The first thing I did was rebuild
-the engine. It had been exposed to the elements for a few years at this point,
-so everything needed to be checked or replaced. I got a lot of help from a
-mechanic to make sure this was done right.
+It wasn't until 2010, almost 4 years later, that things started moving again.
+The first thing I did was rebuild the engine. It had been exposed to the
+elements the whole time, so everything needed to be checked or replaced. I got
+a lot of help from a mechanic to make sure this was done right.
 
-I don't have any pictures from this step, but a great resource for learning
-about four-stroke engines is Bartosz Ciechanowski's blog post about [Internal
-Combustion Engines](https://ciechanow.ski/internal-combustion-engine/). The
-interactive 3D models in that post are similar to the Volkswagen engine and the
-principals are identical.
+I don't have any pictures of the engine rebuild, but a great resource for
+learning about four-stroke engines is Bartosz Ciechanowski's blog post about
+[Internal Combustion
+Engines](https://ciechanow.ski/internal-combustion-engine/). The interactive 3D
+models in that post are similar to the Volkswagen engine and the principals are
+identical.
 
 <figure>
   <img
@@ -67,23 +67,23 @@ principals are identical.
 
 As I was still in high school, at some point my dad contracted some people to
 help out with the rest of the build, especially the frame. I continued to help
-out at the shop whenever I had a chance.
+out at the shop whenever I had the chance, and over the next months the dune
+buggy emerged.
 
 ## Album
 
-I think the dune buggy turned out pretty cool in the end! Thanks to its light
-body and rear wheel drive, it was great for drifting and ripping holes in the
-baseball field. I also drove it to school throughout high school. If my hair
-was wet when rushing out the door, I was sure to have very windswept look that
-day.
-
+In the end, the dune buggy turned out pretty cool! Thanks to its light body and
+rear wheel drive, it was great for drifting and ripping holes in the baseball
+field. I also drove it to school throughout high school. If my hair was wet
+when rushing out the door, I was sure to have very windswept look that day.
+I've included the images I could find of the finished dune buggy.
 
 <figure>
   {{< youtube id="12lF6r7RXOM" title="Video of the dune buggy driving around." >}}
 <figcaption>
 <p>
 
-At some point I even made a short video and posted it on youtube, although the
+At some point I made a short video and posted it on youtube, although the
 resolution is pretty poor by today's standards. Notice the lack of ABS in the
 first few frames. Also missing: power steering and a windshield.
 
