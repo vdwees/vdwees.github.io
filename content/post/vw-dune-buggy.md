@@ -2,8 +2,9 @@
 title: the dune buggy
 date: 2021-06-27T00:00:00Z
 tags:
-  - Volkswagen Dune Buggy
-  - Car Repair
+  - volkswagen dune buggy
+  - car repair
+  - nicaragua
 ---
 
 When I moved to Nicaragua in elementary school, my dad promised me that we

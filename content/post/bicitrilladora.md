@@ -4,7 +4,7 @@ date: 2021-06-12T12:52:38+02:00
 tags:
   - rice dehuller
   - nicaragua
-  - R&D
+  - internship
 ---
 
 One summer when I was too inexperienced an engineer to find a real internship,
