@@ -7,10 +7,6 @@ tags:
   - nicaragua
 ---
 
-When I moved to Nicaragua in elementary school, my dad promised me that we
-would build a dune buggy together. I was worried about the move, but certain
-that if I had this exciting project to look forward to, everything would be OK.
-
 ## Volkswagen Beetle
 
 The classic [Volkswagen
@@ -20,8 +16,10 @@ into a dune buggy: its engine is famously located in the rear of the vehicle,
 finding parts is trivial, and, due to its age, the electrical system is
 extremely simple.
 
-At some point I must have pestered my dad to make good on his promise, so he
-found one made in the mid-1960's for about $500 USD.
+When I moved to Nicaragua in elementary school, my dad promised me that we
+would build a dune buggy together. At some point I must have pestered my dad to
+make good on his promise, so he found one made in the mid-1960's for about $500
+USD.
 
 {{< figure
     src="/images/volkswagen-unmodified.jpeg"
